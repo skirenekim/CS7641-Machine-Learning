@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import mlrose_hiive
 import time
 from sklearn.datasets import load_breast_cancer
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardsScaler
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 from sklearn.model_selection import train_test_split
 
