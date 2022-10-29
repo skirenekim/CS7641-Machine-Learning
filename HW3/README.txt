@@ -3,7 +3,7 @@
 ### Assignment: Randomized Optimization 
 
 Code and Data Repository Address: 
-*[https://github.com/skirenekim/CS7641-Machine-Learning/tree/main/HW3]*
+https://github.com/skirenekim/CS7641-Machine-Learning/tree/main/HW3
 
 
 
