@@ -16,9 +16,3 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
-
-File lists:
-
-* `main.ipnyb` : run filp flop, four peaks
-* `knapsack.ipynb` : run knapsack
-* `neural_network.py` : run neural network 
