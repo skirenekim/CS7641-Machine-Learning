@@ -1,6 +1,6 @@
 # CS7641-Machine-Learning
 
-### Assignment: Randomized Optimization 
+### Assignment: Unsupervised Learning and Dimensionality Reduction
 
 Code and Data Repository Address: 
 https://github.com/skirenekim/CS7641-Machine-Learning/tree/main/HW3
