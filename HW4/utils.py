@@ -79,7 +79,6 @@ def plot_forest(policy, title='Forest'):
     plt.axis('off')
 
     
-
 def ql_plot_result(df, interest, dependent, independent, title=None, logscale=False):
 
     if dependent not in interest:
