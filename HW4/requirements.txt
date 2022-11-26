@@ -7,8 +7,4 @@ scikit-learn == 1.1.2
 pymdptoolbox
 gym==0.24
 mdptoolbox-hiive
-pygame
-pickle5
 pyyaml==6.0
-huggingface_hub
-imageio 
